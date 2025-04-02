@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Poojabalamkar19
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning Devops
+- 👀 I’m interested in ----
+- 🌱 I’m currently learning -----
 - 💞️ I’m looking to collaborate on any intersting projects
 - 📫 How to reach me Poojabalamkar19
 - 😄 Pronouns: NA
-- ⚡ Fun fact: i look like 20 when i'm 25
+- ⚡ Fun fact: -----
 
 <!---
 Poojabalamkar19/Poojabalamkar19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
